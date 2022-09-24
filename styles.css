@@ -1,0 +1,56 @@
+h1 {
+    padding-top: 10px;
+    padding-bottom: 25px;
+  }
+  
+  img {
+    padding-top: 10px;
+    padding-bottom: 5px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 20%;
+    display: block;
+    margin: auto;
+  }
+  
+  #tribute-info {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    line-height: 6rem;
+    font-size: 18px;
+  }
+  
+  ul {
+    line-height: 2rem;
+    margin-left: -20px;
+  }
+  
+  #title {
+    font-style: italic;
+  }
+  
+  .disclaimer {
+    text-align: left;
+  }
+  
+  .signature {
+    text-align: right;
+  }
+  
+  .footer {
+    display: inline;
+  }
+  
+  body {
+    background-image: linear-gradient(25deg, rgba(235, 154, 83, 0.83), rgba(237, 114, 195, 0.31));
+    margin: 0;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  ul {
+    list-style-position: inside;
+    text-align: center;
+  }
